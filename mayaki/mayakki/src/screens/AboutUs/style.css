@@ -8,6 +8,8 @@
 
 .about-us .button {
   background-color: transparent;
+  position: relative;
+  z-index: 1;
 }
 
 .about-us .div {
