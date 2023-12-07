@@ -1,0 +1,453 @@
+.allergen-guide {
+  background-color: #c2f4ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.allergen-guide .div {
+  background-color: #c2f4ff;
+  height: 2050px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.allergen-guide .text-wrapper {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 150px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: -1px;
+  white-space: nowrap;
+  width: 1920px;
+}
+
+.allergen-guide .overlap {
+  height: 497px;
+  left: 64px;
+  position: absolute;
+  top: 184px;
+  width: 1997px;
+}
+
+.allergen-guide .p {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 1793px;
+}
+
+.allergen-guide .gluten-dairy-tree {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 50px;
+  font-weight: 400;
+  left: 95px;
+  letter-spacing: -5px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 350px;
+  width: 1920px;
+}
+
+.allergen-guide .overlap-group {
+  height: 1277px;
+  left: 0;
+  position: absolute;
+  top: 722px;
+  width: 1943px;
+}
+
+.allergen-guide .cheese-pizza {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 45px;
+  font-weight: 400;
+  left: 23px;
+  letter-spacing: 0;
+  line-height: 69px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.allergen-guide .button {
+  background-color: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+.allergen-guide .image {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.allergen-guide .img {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.allergen-guide .image-2 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 118px;
+}
+
+.allergen-guide .image-3 {
+  height: 80px;
+  left: 912px;
+  object-fit: cover;
+  position: absolute;
+  top: 999px;
+  width: 118px;
+}
+
+.allergen-guide .image-4 {
+  height: 80px;
+  left: 912px;
+  object-fit: cover;
+  position: absolute;
+  top: 862px;
+  width: 118px;
+}
+
+.allergen-guide .image-5 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 172px;
+  width: 118px;
+}
+
+.allergen-guide .image-6 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 312px;
+  width: 118px;
+}
+
+.allergen-guide .image-7 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 447px;
+  width: 118px;
+}
+
+.allergen-guide .image-8 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 592px;
+  width: 118px;
+}
+
+.allergen-guide .image-9 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 725px;
+  width: 118px;
+}
+
+.allergen-guide .image-10 {
+  height: 80px;
+  left: 1472px;
+  object-fit: cover;
+  position: absolute;
+  top: 862px;
+  width: 118px;
+}
+
+.allergen-guide .image-11 {
+  height: 80px;
+  left: 1472px;
+  object-fit: cover;
+  position: absolute;
+  top: 1002px;
+  width: 118px;
+}
+
+.allergen-guide .image-12 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 862px;
+  width: 118px;
+}
+
+.allergen-guide .image-13 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 1002px;
+  width: 118px;
+}
+
+.allergen-guide .image-14 {
+  height: 80px;
+  left: 1693px;
+  object-fit: cover;
+  position: absolute;
+  top: 1162px;
+  width: 118px;
+}
+
+.allergen-guide .image-15 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 118px;
+}
+
+.allergen-guide .image-16 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 312px;
+  width: 118px;
+}
+
+.allergen-guide .image-17 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 118px;
+}
+
+.allergen-guide .image-18 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 592px;
+  width: 118px;
+}
+
+.allergen-guide .image-19 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 725px;
+  width: 118px;
+}
+
+.allergen-guide .image-20 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 862px;
+  width: 118px;
+}
+
+.allergen-guide .image-21 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 999px;
+  width: 118px;
+}
+
+.allergen-guide .image-22 {
+  height: 80px;
+  left: 422px;
+  object-fit: cover;
+  position: absolute;
+  top: 1162px;
+  width: 118px;
+}
+
+.allergen-guide .image-23 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 158px;
+  width: 118px;
+}
+
+.allergen-guide .image-24 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 312px;
+  width: 118px;
+}
+
+.allergen-guide .image-25 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 452px;
+  width: 118px;
+}
+
+.allergen-guide .image-26 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 592px;
+  width: 118px;
+}
+
+.allergen-guide .image-27 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 720px;
+  width: 118px;
+}
+
+.allergen-guide .image-28 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 862px;
+  width: 118px;
+}
+
+.allergen-guide .image-29 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 1003px;
+  width: 118px;
+}
+
+.allergen-guide .image-30 {
+  height: 80px;
+  left: 656px;
+  object-fit: cover;
+  position: absolute;
+  top: 1157px;
+  width: 118px;
+}
+
+.allergen-guide .line {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 118px;
+  width: 1920px;
+}
+
+.allergen-guide .line-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 276px;
+  width: 1920px;
+}
+
+.allergen-guide .line-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 420px;
+  width: 1920px;
+}
+
+.allergen-guide .line-4 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 690px;
+  width: 1920px;
+}
+
+.allergen-guide .line-5 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 827px;
+  width: 1920px;
+}
+
+.allergen-guide .line-6 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 975px;
+  width: 1920px;
+}
+
+.allergen-guide .line-7 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 1108px;
+  width: 1920px;
+}
+
+.allergen-guide .line-8 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 560px;
+  width: 1920px;
+}
+
+.allergen-guide .line-9 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 681px;
+  width: 1902px;
+}

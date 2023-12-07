@@ -1,0 +1,455 @@
+.create-your-own {
+  background-color: #c2f4ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.create-your-own .div {
+  background-color: #c2f4ff;
+  height: 1518px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.create-your-own .overlap {
+  height: 519px;
+  left: -473px;
+  position: absolute;
+  top: -1px;
+  width: 2505px;
+}
+
+.create-your-own .background {
+  background: linear-gradient(
+    180deg,
+    rgb(216.75, 104.04, 0) 41.93%,
+    rgba(255, 122.4, 0, 0.58) 76.04%,
+    rgba(217.81, 182.96, 0, 0) 100%
+  );
+  height: 290px;
+  left: 473px;
+  position: absolute;
+  top: 1px;
+  width: 1951px;
+}
+
+.create-your-own .text-wrapper {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 100px;
+  font-weight: 400;
+  left: 994px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 343px;
+  width: 868px;
+}
+
+.create-your-own .tabs {
+  height: 350px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 2505px;
+}
+
+.create-your-own .overlap-group {
+  height: 350px;
+  position: relative;
+  width: 2507px;
+}
+
+.create-your-own .login-signup {
+  height: 208px;
+  left: 1787px;
+  position: absolute;
+  top: 0;
+  width: 720px;
+}
+
+.create-your-own .overlap-group-2 {
+  height: 208px;
+  position: relative;
+  width: 716px;
+}
+
+.create-your-own .rectangle {
+  border: 1px solid;
+  border-color: #000000;
+  height: 89px;
+  left: 187px;
+  position: absolute;
+  top: 0;
+  width: 204px;
+}
+
+.create-your-own .rectangle-2 {
+  background: linear-gradient(180deg, rgb(211.44, 247.16, 255) 0%, rgba(100.12, 116.88, 95.93, 0) 100%);
+  border: 1px solid;
+  border-color: #000000;
+  height: 89px;
+  left: 391px;
+  position: absolute;
+  top: 0;
+  width: 221px;
+}
+
+
+.create-your-own .button {
+  background-color: transparent;
+  position: relative;
+  z-index: 1;
+}
+
+.create-your-own .text-wrapper-2 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 577px;
+}
+
+.create-your-own .text-wrapper-3 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 277px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  width: 438px;
+}
+
+.create-your-own .menu-top {
+  height: 105px;
+  left: 542px;
+  position: absolute;
+  top: 180px;
+  width: 466px;
+}
+
+.create-your-own .overlap-2 {
+  height: 105px;
+  position: relative;
+  width: 464px;
+}
+
+.create-your-own .text-wrapper-4 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 464px;
+}
+
+.create-your-own .drop-down {
+  height: 18px;
+  left: 305px;
+  position: absolute;
+  top: 20px;
+  width: 50px;
+}
+
+.create-your-own .overlap-group-3 {
+  height: 19px;
+  position: relative;
+  top: -1px;
+}
+
+.create-your-own .line {
+  height: 19px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.create-your-own .img {
+  height: 19px;
+  left: 25px;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 26px;
+}
+
+.create-your-own .about-us-top {
+  height: 88px;
+  left: 1606px;
+  position: absolute;
+  top: 174px;
+  width: 655px;
+}
+
+.create-your-own .overlap-3 {
+  height: 88px;
+  position: relative;
+  width: 653px;
+}
+
+.create-your-own .text-wrapper-5 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 653px;
+}
+
+.create-your-own .overlap-group-wrapper {
+  height: 18px;
+  left: 462px;
+  position: absolute;
+  top: 16px;
+  width: 50px;
+}
+
+.create-your-own .services-top {
+  height: 117px;
+  left: 1092px;
+  position: absolute;
+  top: 174px;
+  width: 565px;
+}
+
+.create-your-own .overlap-4 {
+  height: 117px;
+  position: relative;
+  width: 563px;
+}
+
+.create-your-own .text-wrapper-6 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 36px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 563px;
+}
+
+.create-your-own .div-wrapper {
+  height: 18px;
+  left: 384px;
+  position: absolute;
+  top: 17px;
+  width: 50px;
+}
+
+.create-your-own .text-wrapper-7 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 700px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0px;
+  white-space: nowrap;
+  width: 1490px;
+}
+
+.create-your-own .contact-info {
+  height: 341px;
+  left: 0;
+  position: absolute;
+  top: 9px;
+  width: 1551px;
+}
+
+.create-your-own .overlap-5 {
+  height: 341px;
+  position: relative;
+  width: 1549px;
+}
+
+.create-your-own .rectangle-3 {
+  border: 1px solid;
+  border-color: #000000;
+  height: 146px;
+  left: 502px;
+  position: absolute;
+  top: 0;
+  width: 547px;
+}
+
+.create-your-own .contact-us {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 40px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 11px;
+  width: 1549px;
+}
+
+.create-your-own .text-wrapper-8 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: -54px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 540px;
+  width: 628px;
+}
+
+.create-your-own .text-wrapper-9 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 906px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 540px;
+  white-space: nowrap;
+  width: 690px;
+}
+
+.create-your-own .personal {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 46px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 682px;
+  width: 428px;
+}
+
+.create-your-own .text-wrapper-10 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 874px;
+  width: 416px;
+}
+
+.create-your-own .text-wrapper-11 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 61px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1076px;
+  width: 322px;
+}
+
+.create-your-own .text-wrapper-12 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 80px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 1272px;
+  width: 420px;
+}
+
+.create-your-own .overlap-6 {
+  height: 859px;
+  left: 644px;
+  position: absolute;
+  top: 682px;
+  width: 1276px;
+}
+
+.create-your-own .sausage-ham-grilled {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 407px;
+}
+
+.create-your-own .onions-mushrooms {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 376px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 421px;
+}
+
+.create-your-own .oregano-red-pepper {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 70px;
+  font-weight: 400;
+  left: 746px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 530px;
+}

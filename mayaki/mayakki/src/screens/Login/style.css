@@ -1,0 +1,155 @@
+.login {
+  background-color: #c2f4ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.login .div {
+  background-color: #c2f4ff;
+  height: 1280px;
+  overflow: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.login .rectangle {
+  height: 100px;
+  left: 3701px;
+  position: absolute;
+  top: 1261px;
+  width: 100px;
+}
+
+.login .text-wrapper {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 150px;
+  font-weight: 400;
+  left: 775px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 79px;
+  white-space: nowrap;
+  width: 369px;
+}
+
+.login .text-wrapper-2 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 125px;
+  font-weight: 400;
+  left: 723px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 320px;
+  white-space: nowrap;
+  width: 473px;
+}
+
+.login .overlap-group {
+  height: 405px;
+  left: 559px;
+  justify-content: center;
+  position: absolute;
+  top: 508px;
+  width: 802px;
+}
+
+.login .username{
+  margin-left: 200px;
+}
+
+.login .password{
+  top: 100px;
+  left: 100px;
+  margin: 200px;;
+}
+
+.login .user-text input{
+  border: none;
+  font-size: 36px;
+  background: #d9d9d9;
+  border-radius: 3px;
+  padding: 30px;
+}
+
+.login .pass-text input{
+  border: none;
+  font-size: 36px;
+  background: #d9d9d9;
+  border-radius: 3px;
+  padding: 30px;
+}
+
+
+.login .rectangle-2 {
+  background-color: #d9d9d9;
+  height: 122px;
+  left: 2px;
+  justify-content: center;
+  position: absolute;
+  top: 0;
+  width: 800px;
+}
+
+.login .button{
+  background: transparent;
+}
+
+
+.login .rectangle-3 {
+  background-color: #d9d9d9;
+  height: 122px;
+  left: 0;
+  position: absolute;
+  top: 283px;
+  width: 800px;
+}
+
+.login .text-wrapper-3 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 125px;
+  font-weight: 400;
+  left: 167px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 110px;
+  width: 470px;
+}
+
+.login .overlap {
+  height: 136px;
+  left: 696px;
+  position: absolute;
+  top: 1041px;
+  width: 637px;
+}
+
+.login .rectangle-4 {
+  background-color: #d9d9d9;
+  height: 150px;
+  left: 40px;
+  position: absolute;
+  top: 0px;
+  width: 530px;
+}
+
+.login .text-wrapper-4 {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 100px;
+  font-weight: 400;
+  left: 40px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: -40px;
+  white-space: nowrap;
+  width: 534px;
+}

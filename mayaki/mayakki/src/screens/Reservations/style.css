@@ -1,0 +1,89 @@
+.reservations {
+  background-color: #c2f4ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.reservations .div {
+  background-color: #c2f4ff;
+  height: 1280px;
+  position: relative;
+  width: 1920px;
+}
+
+.reservations .text-wrapper {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 557px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 885px;
+  width: 806px;
+}
+
+.reservations .imageChange{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  /*height: 196px;
+  width: 243px;*/
+  left: 1000px;
+  position: relative;
+  z-index: 1;
+  top: 640px;
+}
+
+.reservations .imageButton{
+  background-color: transparent;
+  border: none;
+  outline: none;
+  height: 196px;
+  width: 243px;
+  margin-left: 100px;
+}
+
+.reservations .button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  position: relative;
+  z-index: 1;
+}
+
+.reservations .rectangle {
+  background-color: #d9d9d9;
+  /*height: 196px;
+  width: 243px;*/
+  left: 838px;
+  position: absolute;
+  top: 640px;
+}
+
+.reservations .image {
+  height: 196px;
+  left: 485px;
+  object-fit: cover;
+  position: absolute;
+  top: 640px;
+  width: 243px;
+}
+
+.reservations .p {
+  color: #000000;
+  font-family: "Jockey One", Helvetica;
+  font-size: 150px;
+  font-weight: 400;
+  left: 202px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 104px;
+  width: 1515px;
+}

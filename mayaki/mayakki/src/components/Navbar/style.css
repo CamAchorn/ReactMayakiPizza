@@ -1,0 +1,550 @@
+.home {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .home .overlap-wrapper {
+    background-color: #ffffff;
+    height: 2015px;
+    overflow: hidden;
+    width: 1728px;
+  }
+  
+  .home .overlap {
+    height: 2741px;
+    position: relative;
+    width: 1836px;
+  }
+  
+  .home .background {
+    background-color: #c2f4ff;
+    height: 2741px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1728px;
+  }
+  
+  .home .rectangle {
+    background: linear-gradient(
+      180deg,
+      rgb(216.75, 104.04, 0) 41.93%,
+      rgba(255, 122.4, 0, 0.58) 76.04%,
+      rgba(217.81, 182.96, 0, 0) 100%
+    );
+    height: 290px;
+  }
+  
+  .home .copyright {
+    height: 27px;
+    left: 652px;
+    position: absolute;
+    top: 1909px;
+    width: 435px;
+  }
+  
+  .home .text-wrapper {
+    color: #000000;
+    font-family: "Inter", Helvetica;
+    font-size: 22px;
+    font-weight: 500;
+    left: 24px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .home .fi-rr-copyright {
+    height: 18px !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 5px !important;
+    width: 18px !important;
+  }
+  
+  .home .line {
+    height: 2px;
+    left: 0;
+    position: absolute;
+    top: 1579px;
+    width: 1728px;
+  }
+  
+  .home .menu-bottom {
+    height: 156px;
+    left: 287px;
+    position: absolute;
+    top: 1655px;
+    width: 445px;
+  }
+  
+  .home .overlap-group {
+    height: 156px;
+    position: relative;
+    width: 441px;
+  }
+  
+  .home .button {
+    background-color: transparent;
+  }
+  
+  .home .div {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 441px;
+  }
+  
+  .home .text-wrapper-2 {
+    color: #6e6e6e;
+    font-family: "Jockey One", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 30px;
+    width: 441px;
+  }
+  
+  .home .img {
+    height: 2px;
+    left: 164px;
+    position: absolute;
+    top: 47px;
+    width: 112px;
+  }
+  
+  .home .h-s-bottom {
+    height: 254px;
+    left: 644px;
+    position: absolute;
+    top: 1655px;
+    width: 445px;
+  }
+  
+  .home .overlap-2 {
+    height: 50px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 441px;
+  }
+  
+  .home .line-2 {
+    height: 3px;
+    left: 97px;
+    position: absolute;
+    top: 47px;
+    width: 247px;
+  }
+  
+  .home .our-company {
+    height: 156px;
+    left: 1019px;
+    position: absolute;
+    top: 1655px;
+    width: 447px;
+  }
+  
+  .home .overlap-3 {
+    height: 156px;
+    position: relative;
+    width: 443px;
+  }
+  
+  .home .about-us-careers {
+    color: #6e6e6e;
+    font-family: "Jockey One", Helvetica;
+    font-size: 28px;
+    font-weight: 400;
+    left: 2px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 59px;
+    width: 441px;
+  }
+  
+  .home .line-3 {
+    height: 2px;
+    left: 110px;
+    position: absolute;
+    top: 47px;
+    width: 225px;
+  }
+  
+  .home .desserts {
+    height: 371px;
+    left: 1239px;
+    position: absolute;
+    top: 1146px;
+    width: 452px;
+  }
+  
+  .home .pizza-specials {
+    height: 371px;
+    left: 681px;
+    position: absolute;
+    top: 1146px;
+    width: 430px;
+  }
+  
+  .home .text-wrapper-3 {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 274px;
+    width: 308px;
+  }
+  
+  .home .pizza {
+    height: 254px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 428px;
+  }
+  
+  .home .create-pizza {
+    height: 387px;
+    left: 131px;
+    position: absolute;
+    top: 1103px;
+    width: 338px;
+  }
+  
+  .home .overlap-4 {
+    height: 387px;
+    position: relative;
+    width: 336px;
+  }
+  
+  .home .create-pizza-home {
+    height: 339px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 336px;
+  }
+  
+  .home .text-wrapper-4 {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 40px;
+    font-weight: 400;
+    left: 29px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 317px;
+    width: 279px;
+  }
+  
+  .home .line-4 {
+    height: 3px;
+    left: 225px;
+    position: absolute;
+    top: 986px;
+    width: 1277px;
+  }
+  
+  .home .mayo-pizza-special {
+    height: 597px;
+    left: 417px;
+    position: absolute;
+    top: 300px;
+    width: 941px;
+  }
+  
+  .home .overlap-5 {
+    background-image: url(https://c.animaapp.com/bN2rqwyo/img/image-1.png);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 597px;
+    position: relative;
+    width: 937px;
+  }
+  
+  .home .rectangle-2 {
+    background-color: #00000080;
+    height: 215px;
+    left: 232px;
+    position: absolute;
+    top: 163px;
+    width: 472px;
+  }
+  
+  .home .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 412px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 311px;
+  }
+  
+  .home .p {
+    color: #ffffff;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 242px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 166px;
+    width: 438px;
+  }
+  
+  .home .tabs {
+    height: 267px;
+    left: 38px;
+    position: absolute;
+    top: 0;
+    width: 1798px;
+  }
+  
+  .home .overlap-6 {
+    height: 267px;
+    position: relative;
+    width: 1796px;
+  }
+  
+  .home .overlap-7 {
+    height: 267px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1796px;
+  }
+  
+  .home .login-signup {
+    height: 192px;
+    left: 1115px;
+    position: absolute;
+    top: 0;
+    width: 681px;
+  }
+  
+  .home .overlap-group-2 {
+    height: 192px;
+    position: relative;
+    width: 575px;
+  }
+  
+  .home .sign-up {
+    height: 87px;
+    left: 264px;
+    position: absolute;
+    top: 0;
+    width: 311px;
+  }
+  
+  .home .login {
+    height: 192px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 549px;
+  }
+  
+  .home .about-us-top {
+    height: 81px;
+    left: 1047px;
+    position: absolute;
+    top: 159px;
+    width: 623px;
+  }
+  
+  .home .overlap-8 {
+    height: 81px;
+    position: relative;
+    width: 621px;
+  }
+  
+  .home .text-wrapper-6 {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 621px;
+  }
+  
+  .home .drop-down {
+    height: 17px;
+    left: 440px;
+    position: absolute;
+    top: 15px;
+    width: 48px;
+  }
+  
+  .home .overlap-group-3 {
+    height: 18px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .home .line-5 {
+    height: 18px;
+    left: 0;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 25px;
+  }
+  
+  .home .line-6 {
+    height: 18px;
+    left: 23px;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    width: 25px;
+  }
+  
+  .home .services-top {
+    height: 108px;
+    left: 558px;
+    position: absolute;
+    top: 159px;
+    width: 538px;
+  }
+  
+  .home .overlap-9 {
+    height: 108px;
+    position: relative;
+    width: 536px;
+  }
+  
+  .home .text-wrapper-7 {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 0;
+    width: 536px;
+  }
+  
+  .home .overlap-group-wrapper {
+    height: 17px;
+    left: 365px;
+    position: absolute;
+    top: 16px;
+    width: 48px;
+  }
+  
+  .home .text-wrapper-8 {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 70px;
+    font-weight: 400;
+    left: 117px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 26px;
+    white-space: nowrap;
+    width: 1418px;
+  }
+  
+  .home .contact-info {
+    height: 147px;
+    left: 0;
+    position: absolute;
+    top: 6px;
+    width: 549px;
+  }
+  
+  .home .overlap-10 {
+    height: 147px;
+    position: relative;
+    width: 547px;
+  }
+  
+  .home .rectangle-3 {
+    border: 1px solid;
+    border-color: #000000;
+    height: 146px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 547px;
+  }
+  
+  .home .contact-us {
+    color: #000000;
+    font-family: "Jockey One", Helvetica;
+    font-size: 36px;
+    font-weight: 400;
+    left: 54px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: -10px;
+    width: 441px;
+  }
+  
+  .home .menu-top {
+    height: 97px;
+    left: 35px;
+    position: absolute;
+    top: 165px;
+    width: 443px;
+  }
+  
+  .home .overlap-11 {
+    height: 97px;
+    position: relative;
+    width: 441px;
+  }
+  
+  .home .drop-down-2 {
+    height: 18px;
+    left: 290px;
+    position: absolute;
+    top: 17px;
+    width: 48px;
+  }
+  
